@@ -5,6 +5,8 @@
   "author": "exc1ut <umid19999@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^2.0.0",
     "puppeteer": "^8.0.0"
   }
 }
